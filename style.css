@@ -1,0 +1,46 @@
+body {
+  margin: 10px 10px 10px 10px;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+margin-top: 50px ;
+font-family: 'Sacramento', cursive;
+font-size: 3rem;
+color: #66BFBF;
+line-height: 2;
+}
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+color: #66BFBF;
+font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+
+.Birthday{
+
+  background-color: #393b44;
+}
+.top-container{
+  background-color: #1a1c20;
+  padding-top: 100px;
+
+  line-height: 2;
+}
+.Nahid{
+  height: 50%;
+  width: 50%
+}
+p{
+  color: #EAF6F6;
+}
+.footer-link {
+  color: #11999E;
+}
